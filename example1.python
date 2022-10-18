@@ -1,0 +1,11 @@
+print("my first python script")
+name = "peter"
+age = "35"
+height = "5.9"
+print("my name is " + name + " i am " + age + " years old with a height of " + height)
+print(name.upper())
+first_name = "peter"
+last_name = "nwobodo"
+print(first_name + " " + last_name)
+full_name = (first_name + " " + last_name)
+print(full_name)
